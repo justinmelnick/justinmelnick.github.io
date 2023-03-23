@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://justinmelnick.github.io/al-folio/sitemap.xml
+Sitemap: https://justinmelnick.github.io/sitemap.xml
