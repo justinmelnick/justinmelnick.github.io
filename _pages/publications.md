@@ -8,6 +8,6 @@ nav: true
 nav_order: 2
 ---
 
-peer-reviewed articles
+<peer-reviewed articles>
 
-working papers/work in progress
+<working papers/work in progress>
