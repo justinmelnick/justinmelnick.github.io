@@ -20,6 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome. I am a Ph.D. student in the [Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) at New York University. 
 
-My research interests lie at the intersection of international relations and domestic politics. I focus on how electoral incentives drive foreign policy choices and on the political economy of climate change, primarily using game-theoretic tools. My research has been published in the _Journal of Conflict Resolution._
+I write on international politics. I am particularly interested in the domestic institutional factors that drive international outcomes, and vice versa. My current reserach focuses on how electoral incentives drive foreign policy choices to negotiate or withdraw from international agreements and on the political economy of climate change. Methodologically, I primarily leverage game-theoretic tools, but am also interested in reduced-form causal approaches and structural estimation. My work has been published in the _Journal of Conflict Resolution._
+
+I hold a B.A. in International Relations and Economics from the University of Pennsylvania.
 
 Please feel free to contact me at: melnickj [at] nyu [dot] edu
