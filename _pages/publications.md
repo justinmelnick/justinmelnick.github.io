@@ -12,7 +12,7 @@ nav_order: 2
 
 International Negotiations in the Shadow of Elections (with Alastair Smith), _Journal of Conflict Resolution_ (Forthcoming)
 
-[journal](xxx) [pre-print](https://justinmelnick.github.io/assets/pdf/text_10_27.pdf) [appendix](https://justinmelnick.github.io/assets/pdf/online appendix 3-11.pdf)
+[journal](xxx) [pre-print](https://justinmelnick.github.io/assets/pdf/text_10_27.pdf) [appendix](https://justinmelnick.github.io/assets/pdf/nego_online.pdf)
 
 <h3>working papers/works in progress</h3>
 
