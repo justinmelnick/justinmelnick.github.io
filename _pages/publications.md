@@ -22,7 +22,7 @@ Political Life Cycles (with Alastair Smith and Bruce Bueno de Mesquita) _(under 
 
 Why Exit from International Agreements? A Domestic Perspective _(in progress)_
 
-[[manuscript]](https://justinmelnick.github.io/assets/pdf/Exit (9).pdf)
+[[manuscript]](https://justinmelnick.github.io/assets/pdf/Exit56.pdf)
 
 <h3>other writing</h3>
 
