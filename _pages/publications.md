@@ -24,6 +24,10 @@ Why Exit from International Agreements? A Domestic Perspective  _(under review)_
 
 [[manuscript]](https://justinmelnick.github.io/assets/pdf/exit 6-10.pdf)
 
+Climate Change, International Cooperation, and Electoral Accountability  _(in progress)_
+
+A Theory of the Consequences of Private Military Companies (with Martin Castillo-Quintana)  _(in progress)_
+
 <h3>other writing</h3>
 
 After Trump’s Hong Kong Democracy Act, China Is Still Winning (with Farah Jan), _Foreign Policy_, December 2019
