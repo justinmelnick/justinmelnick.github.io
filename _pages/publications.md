@@ -10,7 +10,7 @@ nav_order: 2
 
 <h3>peer-reviewed articles</h3>
 
-International Negotiations in the Shadow of Elections (with Alastair Smith), _Journal of Conflict Resolution_ (Forthcoming)
+International Negotiations in the Shadow of Elections (with Alastair Smith). 2023. _Journal of Conflict Resolution_, 67(7-8): 1452-1481.
 
 [[journal]](https://journals.sagepub.com/doi/abs/10.1177/00220027221139433)     [[pre-print]](https://justinmelnick.github.io/assets/pdf/text_10_27.pdf)     [[appendix]](https://justinmelnick.github.io/assets/pdf/nego_online.pdf)
 
