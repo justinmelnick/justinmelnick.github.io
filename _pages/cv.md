@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 1
-cv_pdf: cv_june.pdf
+cv_pdf: cv_september.pdf
 ---
 
-[[download cv]](https://justinmelnick.github.io/assets/pdf/cv_june.pdf)
+[[download cv]](https://justinmelnick.github.io/assets/pdf/cv_september.pdf)
