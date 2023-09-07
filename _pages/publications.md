@@ -20,9 +20,11 @@ Political Life Cycles (with Alastair Smith and Bruce Bueno de Mesquita) _(under 
 
 [[manuscript]](https://justinmelnick.github.io/assets/pdf/PLC_March2023.pdf)
 
-Why Exit from International Agreements? A Domestic Perspective  _(under review)_
+Domestic Inequality and Exit from International Agreements _(under review)_
 
-[[manuscript]](https://justinmelnick.github.io/assets/pdf/exit 6-10.pdf)
+Formerly titled: Why Exit from International Agreements? A Domestic Perspective  
+
+[[manuscript]](https://justinmelnick.github.io/assets/pdf/exit 9-7 full.pdf)
 
 Climate Change, International Cooperation, and Electoral Accountability  _(in progress)_
 
