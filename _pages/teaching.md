@@ -13,6 +13,12 @@ nav_order: 5
 - **Quantitative Political Analysis I** (M.A.)
   
   T.A. for Pat Egan, Summer 2023; Summer 2022; Summer 2021
+- **Strategic Thinking (Game Theory)** (M.S., Columbia)
+
+  T.A. for Mike Ting, Fall 2023
+- **International Politics** (Undergraduate)
+
+    T.A. for Nicole Simonelli, Fall 2023
 - **Politics of Climate Change** (Undergraduate)
   
   T.A. for Eric Dickson, Spring 2023
