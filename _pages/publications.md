@@ -10,32 +10,38 @@ nav_order: 2
 
 <h3>peer-reviewed articles</h3>
 
-International Negotiations in the Shadow of Elections (with Alastair Smith). 2023. _Journal of Conflict Resolution_, 67(7-8): 1452-1481.
+1. Melnick, Justin and Alastair Smith. 2023. International Negotiations in the Shadow of Elections (with Alastair Smith). _Journal of Conflict Resolution_, 67(7-8): 1452-1481.
 
-[[journal]](https://journals.sagepub.com/doi/abs/10.1177/00220027221139433)     [[pre-print]](https://justinmelnick.github.io/assets/pdf/text_10_27.pdf)     [[appendix]](https://justinmelnick.github.io/assets/pdf/nego_online.pdf)
+   [[journal]](https://journals.sagepub.com/doi/abs/10.1177/00220027221139433)     [[pre-print]](https://justinmelnick.github.io/assets/pdf/text_10_27.pdf)     [[appendix]](https://justinmelnick.github.io/assets/pdf/nego_online.pdf)
 
 <h3>working papers/works in progress</h3>
 
-Political Life Cycles (with Alastair Smith and Bruce Bueno de Mesquita) _(under review)_
+1. Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. Political Life Cycles. _(under review)_
 
-[[manuscript]](https://justinmelnick.github.io/assets/pdf/PLC_March2023.pdf)
+      [[manuscript]](https://justinmelnick.github.io/assets/pdf/PLC_March2023.pdf)
 
-Domestic Inequality and Exit from International Agreements _(under review)_
+2. Melnick, Justin. Domestic Inequality and Exit from International Agreements. _(under review)_
 
-Formerly titled: Why Exit from International Agreements? A Domestic Perspective  
+    Formerly titled: Why Exit from International Agreements? A Domestic Perspective
 
-[[manuscript]](https://justinmelnick.github.io/assets/pdf/exit 9-7 full.pdf)
+      [[manuscript]](https://justinmelnick.github.io/assets/pdf/exit 9-7 full.pdf)
 
-Climate Change, International Cooperation, and Electoral Accountability  _(in progress)_
+3. Melnick, Justin. The Deleterious Effects of the Paris Agreement: Climate Change Mitigation, Information Dissemination, and Electoral Selection.  _(in progress)_
 
-A Theory of the Consequences of Private Military Companies (with Martin Castillo-Quintana)  _(in progress)_
+4. Melnick, Justin. The Domestic Political Consequences of Free Allowances in the European Union’s Emissions
+Trading System. _(in progress)_
+
+5. Castillo-Quintana, Martin and Justin Melnick. A Theory of the Consequences of Private Military Companies.  _(in progress)_
+
+6. Melnick, Justin and Joohyun Shon. The Informative Value of Conditional Foreign Aid Distorts Corruption
+through Domestic Politics. _(in progress)_
 
 <h3>other writing</h3>
 
-After Trump’s Hong Kong Democracy Act, China Is Still Winning (with Farah Jan), _Foreign Policy_, December 2019
+1. Jan, Farah and Justin Melnick. After Trump’s Hong Kong Democracy Act, China Is Still Winning, _Foreign Policy_, December 2019.
 
-[[link]](https://foreignpolicy.com/2019/12/02/trump-surprise-move-human-rights-hong-kong-protesters-democracy-act-upper-hand-china-trade-talks/)
+   [[link]](https://foreignpolicy.com/2019/12/02/trump-surprise-move-human-rights-hong-kong-protesters-democracy-act-upper-hand-china-trade-talks/)
 
-China's Challenge to America’s Political and Economic Liberal Order (with Farah Jan), _The National Interest_, January 2020
+2. Jan, Farah and Justin Melnick. China's Challenge to America’s Political and Economic Liberal Order, _The National Interest_, January 2020.
 
-[[link]](https://nationalinterest.org/feature/chinas-challenge-america%E2%80%99s-political-and-economic-liberal-order-111361)
+   [[link]](https://nationalinterest.org/feature/chinas-challenge-america%E2%80%99s-political-and-economic-liberal-order-111361)
