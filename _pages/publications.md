@@ -33,8 +33,7 @@ Trading System. _(in progress)_
 
 5. Castillo-Quintana, Martin and Justin Melnick. A Theory of the Consequences of Private Military Companies.  _(in progress)_
 
-6. Melnick, Justin and Joohyun Shon. The Informative Value of Conditional Foreign Aid Distorts Corruption
-through Domestic Politics. _(in progress)_
+6. Melnick, Justin and Joohyun Shon. Foreign Aid, Transparency, and Electoral Accountability. _(in progress)_
 
 <h3>other writing</h3>
 
