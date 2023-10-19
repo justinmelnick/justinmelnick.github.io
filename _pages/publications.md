@@ -33,8 +33,6 @@ Trading System. _(in progress)_
 
 5. Castillo-Quintana, Martin and Justin Melnick. A Theory of the Consequences of Private Military Companies.  _(in progress)_
 
-6. Melnick, Justin and Joohyun Shon. Foreign Aid, Transparency, and Electoral Accountability. _(in progress)_
-
 <h3>other writing</h3>
 
 1. Jan, Farah and Justin Melnick. After Trump’s Hong Kong Democracy Act, China Is Still Winning, _Foreign Policy_, December 2019.
