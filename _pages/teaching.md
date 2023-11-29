@@ -7,6 +7,9 @@ nav: true
 nav_order: 5
 ---
 
+- **Game Theory I** (Ph.D.)
+  
+  T.A. for Gaétan Nandong, Spring 2024
 - **Quantitative Political Analysis I** (Ph.D.)
   
   T.A. for Neal Beck, Fall 2022; Fall 2021
