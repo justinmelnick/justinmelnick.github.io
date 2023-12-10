@@ -26,7 +26,7 @@ My current research falls into two broad programs:
 1. the political economy of climate change policy;
 2. the domestic incentives to negotiate, renegotiate, or withdraw from international agreements.
 
-My work has been published in the _Journal of Conflict Resolution._
+My work has been published in the _Journal of Conflict Resolution._ My research has been supported by grants from EGAP.
 
 I hold a B.A. in International Relations and Economics from the University of Pennsylvania.
 
