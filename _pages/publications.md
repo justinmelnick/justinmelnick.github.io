@@ -22,7 +22,7 @@ nav_order: 2
 
 2. Melnick, Justin. Domestic Inequality and Exit from International Agreements. _(under review)_
 
-    Formerly titled: Why Exit from International Agreements? A Domestic Perspective
+   <!-- Formerly titled: Why Exit from International Agreements? A Domestic Perspective -->
 
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/exit 9-7 full.pdf)
 
