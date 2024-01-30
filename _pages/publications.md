@@ -26,18 +26,18 @@ nav_order: 2
 
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/exit 1-30.pdf)
 
-3. Melnick, Justin. International Climate Change Mitigation, Information Dissemination, and Domestic Politics.  _(in progress)_
+3. Melnick, Justin. International Climate Change Mitigation, Information Dissemination, and Domestic Politics. 
 
 <h3>works in progress</h3>
 
 1. Melnick, Justin. The Domestic Political Consequences of Free Allowances in the European Union’s Emissions
-Trading System. _(in progress)_
+Trading System. 
 
-2. Conevska, Aleksandra and Justin Melnick. Policy Interventions as Experimental Treatments: Applications to Climate Politics. _(in progress)_
+2. Conevska, Aleksandra and Justin Melnick. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
 
-3. Melnick, Justin and Alastair Smith. Shaming Paris: A Political Economy of Climate Commitments. _(in progress)_
+3. Melnick, Justin and Alastair Smith. Shaming Paris: A Political Economy of Climate Commitments. 
 
-4. Castillo-Quintana, Martin and Justin Melnick. A Theory of the Consequences of Private Military Companies.  _(in progress)_
+4. Castillo-Quintana, Martin and Justin Melnick. A Theory of the Consequences of Private Military Companies.  
 
 <h3>other writing</h3>
 
