@@ -24,7 +24,7 @@ nav_order: 2
 
    <!-- Formerly titled: Why Exit from International Agreements? A Domestic Perspective -->
 
-      [[manuscript]](https://justinmelnick.github.io/assets/pdf/exit 9-7 full.pdf)
+      [[manuscript]](https://justinmelnick.github.io/assets/pdf/exit 1-30.pdf)
 
 3. Melnick, Justin. The Deleterious Effects of the Paris Agreement: Climate Change Mitigation, Information Dissemination, and Electoral Selection.  _(in progress)_
 
