@@ -29,7 +29,9 @@ nav_order: 2
 
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/paris_3_6.pdf)
 
-4. Melnick, Justin. International Climate Change Mitigation, Information Dissemination, and Domestic Politics. 
+4. Melnick, Justin. International Climate Change Mitigation, Information Dissemination, and Domestic Politics.
+   
+      [[manuscript]](https://justinmelnick.github.io/assets/pdf/paris_melnick_feb2024.pdf)
 
 <h3>works in progress</h3>
 
