@@ -25,8 +25,11 @@ nav_order: 2
    <!-- Formerly titled: Why Exit from International Agreements? A Domestic Perspective -->
 
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/exit 1-30.pdf)
+3. Melnick, Justin and Alastair Smith. Shaming Paris: A Political Economy of Climate Commitments. _(under review)_
 
-3. Melnick, Justin. International Climate Change Mitigation, Information Dissemination, and Domestic Politics. 
+      [[manuscript]](https://justinmelnick.github.io/assets/pdf/paris_3_6.pdf)
+
+4. Melnick, Justin. International Climate Change Mitigation, Information Dissemination, and Domestic Politics. 
 
 <h3>works in progress</h3>
 
@@ -35,9 +38,7 @@ Trading System.
 
 2. Conevska, Aleksandra and Justin Melnick. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
 
-3. Melnick, Justin and Alastair Smith. Shaming Paris: A Political Economy of Climate Commitments. 
-
-4. Castillo-Quintana, Martin and Justin Melnick. A Theory of the Consequences of Private Military Companies.  
+3. Castillo-Quintana, Martin and Justin Melnick. A Theory of the Consequences of Private Military Companies.  
 
 <h3>other writing</h3>
 
