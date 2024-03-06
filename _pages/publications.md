@@ -16,7 +16,7 @@ nav_order: 2
 
 <h3>working papers</h3>
 
-1. Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. Political Life Cycles. _(under review)_
+1. Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. Political Life Cycles. _(revise and resubmit, Journal of Politics)_
 
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/PLC_March2023.pdf)
 
