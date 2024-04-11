@@ -35,8 +35,7 @@ nav_order: 2
 
 <h3>works in progress</h3>
 
-1. Melnick, Justin. The Domestic Political Consequences of Free Allowances in the European Union’s Emissions
-Trading System. 
+1. Melnick, Justin. Domestic Politics in the European Union’s Emissions Trading System: Evidence from Free Allowance Allocation.
 
 2. Conevska, Aleksandra and Justin Melnick. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
 
