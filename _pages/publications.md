@@ -20,11 +20,11 @@ nav_order: 2
 
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/PLC_March2023.pdf)
 
-2. Melnick, Justin. Domestic Inequality and Exit from International Agreements. _(under review)_
+2. Melnick, Justin. Domestic Inequality, Heterogeneous Redistribution, and Exit from International Agreements. _(under review)_
 
    <!-- Formerly titled: Why Exit from International Agreements? A Domestic Perspective -->
 
-      [[manuscript]](https://justinmelnick.github.io/assets/pdf/exit 1-30.pdf)
+      [[manuscript]](https://justinmelnick.github.io/assets/pdf/melnick_exit_apr2024.pdf)
 3. Melnick, Justin and Alastair Smith. Shaming Paris: A Political Economy of Climate Commitments. _(under review)_
 
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/paris_3_6.pdf)
