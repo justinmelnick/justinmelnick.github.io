@@ -27,7 +27,7 @@ nav_order: 2
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/melnick_exit_apr2024.pdf)
 3. Melnick, Justin and Alastair Smith. Shaming Paris: A Political Economy of Climate Commitments. _(under review)_
 
-      [[manuscript]](https://justinmelnick.github.io/assets/pdf/paris_3_6.pdf)
+      [[manuscript]](https://justinmelnick.github.io/assets/pdf/parisMS.pdf)
 
 4. Melnick, Justin. International Climate Change Mitigation, Information Dissemination, and Domestic Politics. _(under review)_
    
