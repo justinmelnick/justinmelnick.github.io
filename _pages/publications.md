@@ -25,7 +25,7 @@ nav_order: 2
    <!-- Formerly titled: Why Exit from International Agreements? A Domestic Perspective -->
 
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/melnick_exit_apr2024.pdf)
-3. Melnick, Justin and Alastair Smith. Shaming Paris: A Political Economy of Climate Commitments. _(under review)_
+3. Melnick, Justin and Alastair Smith. Shaming Paris: A Political Economy of Climate Commitments. _(revise and resubmit, International Organization)_
 
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/parisMS.pdf)
 
