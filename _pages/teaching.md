@@ -28,6 +28,6 @@ nav_order: 5
 - **Research Methods for Politics** (Undergraduate)
   
   T.A. for Anna Harvey, Spring 2022
-- **U.S. Politics and Policy** (Undergraduate)
+- **U.S. Politics and Policy in 2022 and Beyond** (Undergraduate)
   
   T.A. for Pat Egan, January 2022
