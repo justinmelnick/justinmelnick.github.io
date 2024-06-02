@@ -19,7 +19,7 @@ nav_order: 5
 - **Strategic Thinking (Game Theory)** (M.S., Columbia)
 
   T.A. for Mike Ting, Fall 2023
-- **Senior Honors Thesis Seminars** (Undergraduate)
+- **Senior Honors Thesis Seminar** (Undergraduate)
 
     T.A. for Alastair Smith, Fall 2024-Spring 2025
 - **International Politics** (Undergraduate)
