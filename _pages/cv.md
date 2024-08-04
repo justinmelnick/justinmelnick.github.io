@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 1
-cv_pdf: new_cv.pdf
+cv_pdf: cv/cv_melnick.pdf
 ---
 
 [[download cv]](https://justinmelnick.github.io/cv/cv_melnick.pdf)
