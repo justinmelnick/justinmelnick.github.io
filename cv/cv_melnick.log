@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  4 AUG 2024 12:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  4 AUG 2024 12:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**new_cv.tex
-(./new_cv.tex
+**cv_melnick.tex
+(./cv_melnick.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06> (./resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
@@ -88,8 +88,8 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count179
 \l__pdf_internal_box=\box47
 )
-No file new_cv.aux.
-\openout1 = `new_cv.aux'.
+No file cv_melnick.aux.
+\openout1 = `cv_melnick.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
@@ -159,7 +159,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--40
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-./new_cv.tex:138: Package array Error: Missing arg: token ignored.
+./cv_melnick.tex:138: Package array Error: Missing arg: token ignored.
 
 See the array package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -173,25 +173,25 @@ Overfull \hbox (48.35269pt too wide) in paragraph at lines 138--142
  [][] 
  []
 
-[2] (./new_cv.aux) ) 
+[2] (./cv_melnick.aux) ) 
 Here is how much of TeX's memory you used:
  1707 strings out of 480608
- 25024 string characters out of 5903631
- 275263 words of memory out of 5000000
+ 25056 string characters out of 5903631
+ 275275 words of memory out of 5000000
  17624 multiletter control sequences out of 15000+600000
  536846 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,31p,959b,259s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-supe
-r/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1
-095.pfb>
-Output written on new_cv.pdf (2 pages, 96978 bytes).
+ 41i,9n,31p,963b,259s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-
+super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/s
+frm1095.pfb>
+Output written on cv_melnick.pdf (2 pages, 96978 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
