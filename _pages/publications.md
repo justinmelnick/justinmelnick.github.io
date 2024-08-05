@@ -16,7 +16,7 @@ nav_order: 2
 
 <h3>working papers</h3>
 
-1. Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. Political Life Cycles. _(revise and resubmit, Journal of Politics)_
+1. Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. Political Life Cycles. _(conditionally accepted, Journal of Politics)_
 
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/PLC_March2023.pdf)
 
@@ -29,13 +29,13 @@ nav_order: 2
 
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/parisMS.pdf)
 
-4. Melnick, Justin. International Climate Change Mitigation, Information Dissemination, and Domestic Politics. _(under review)_
-   
-      [[manuscript]](https://justinmelnick.github.io/assets/pdf/paris_melnick_apr2024.pdf)
-
 <h3>works in progress</h3>
 
 1. Melnick, Justin. Domestic Politics in the European Union’s Emissions Trading System: Evidence from Free Allowance Allocation.
+
+2. Melnick, Justin. Global Public Goods Provision, Information Dissemination, and Domestic Politics.
+
+3. Melnick, Justin. Information and Climate Inaction.
 
 2. Conevska, Aleksandra and Justin Melnick. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
 
