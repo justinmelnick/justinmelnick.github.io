@@ -30,8 +30,8 @@ nav_order: 2
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/parisMS.pdf)
 
 4. Melnick, Justin. Global Public Goods Provision, Information Dissemination, and Domestic Politics. _(under review)_
-     
-        [[manuscript]](https://justinmelnick.github.io/assets/pdf/mechdesign.pdf)
+
+   [[manuscript]](https://justinmelnick.github.io/assets/pdf/mechdesign.pdf)
 
 <h3>works in progress</h3>
 
