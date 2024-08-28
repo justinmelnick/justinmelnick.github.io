@@ -29,17 +29,19 @@ nav_order: 2
 
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/parisMS.pdf)
 
+4. Melnick, Justin. Global Public Goods Provision, Information Dissemination, and Domestic Politics. _(under review)_
+     
+       [manuscript]](https://justinmelnick.github.io/assets/pdf/mechdesign.pdf)
+
 <h3>works in progress</h3>
 
 1. Melnick, Justin. Domestic Politics in the European Union’s Emissions Trading System: Evidence from Free Allowance Allocation.
 
-2. Melnick, Justin. Global Public Goods Provision, Information Dissemination, and Domestic Politics.
+2. Melnick, Justin. Information and Climate Inaction.
 
-3. Melnick, Justin. Information and Climate Inaction.
+3. Conevska, Aleksandra and Justin Melnick. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
 
-2. Conevska, Aleksandra and Justin Melnick. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
-
-3. Castillo-Quintana, Martin and Justin Melnick. A Theory of the Consequences of Private Military Companies.  
+4. Castillo-Quintana, Martin and Justin Melnick. A Theory of the Consequences of Private Military Companies.  
 
 <h3>other writing</h3>
 
