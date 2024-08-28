@@ -20,18 +20,17 @@ nav_order: 2
 
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/PLC_March2023.pdf)
 
-2. Melnick, Justin. Domestic Inequality, Heterogeneous Redistribution, and Exit from International Agreements. _(under review)_
-
-   <!-- Formerly titled: Why Exit from International Agreements? A Domestic Perspective -->
-
-      [[manuscript]](https://justinmelnick.github.io/assets/pdf/exit_6_23.pdf)
-3. Melnick, Justin and Alastair Smith. Shaming Paris: A Political Economy of Climate Commitments. _(revise and resubmit, International Organization)_
+2. Melnick, Justin and Alastair Smith. Shaming Paris: A Political Economy of Climate Commitments. _(revise and resubmit, International Organization)_
 
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/parisMS.pdf)
+   
+3. Melnick, Justin. Domestic Inequality, Heterogeneous Redistribution, and Exit from International Agreements. _(under review)_
 
-4. Melnick, Justin. Global Public Goods Provision, Information Dissemination, and Domestic Politics. _(under review)_
-     
-       [manuscript]](https://justinmelnick.github.io/assets/pdf/mechdesign.pdf)
+      [[manuscript]](https://justinmelnick.github.io/assets/pdf/exit_6_23.pdf)
+
+5. Melnick, Justin. Global Public Goods Provision, Information Dissemination, and Domestic Politics. _(under review)_
+
+   [[manuscript]](https://justinmelnick.github.io/assets/pdf/mechdesign.pdf)
 
 <h3>works in progress</h3>
 
