@@ -18,7 +18,7 @@ nav_order: 5
   T.A. for Pat Egan, Summer 2023; Summer 2022; Summer 2021
 - **Strategic Thinking (Game Theory)** (M.S., Columbia)
 
-  T.A. for Mike Ting, Fall 2023
+  T.A. for Mike Ting, Fall 2024; Fall 2023
 - **Senior Honors Thesis Seminar I** (Undergraduate)
 
     T.A. for Alastair Smith, Fall 2024
