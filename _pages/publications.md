@@ -36,7 +36,7 @@ nav_order: 2
 
 1. Melnick, Justin. Domestic Politics in the European Union’s Emissions Trading System: Evidence from Free Allowance Allocation.
 
-2. Melnick, Justin. Information and Climate Inaction.
+2. Melnick, Justin. Information and Climate (In)action.
 
 3. Conevska, Aleksandra and Justin Melnick. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
 
