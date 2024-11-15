@@ -22,7 +22,7 @@ nav_order: 2
 
 2. Melnick, Justin and Alastair Smith. Shaming Paris: A Political Economy of Climate Commitments. _(revise and resubmit, International Organization)_
 
-      [[manuscript]](https://justinmelnick.github.io/assets/pdf/parisMS.pdf)
+      [[manuscript]](https://justinmelnick.github.io/assets/pdf/paris_full.pdf)
    
 3. Melnick, Justin. Domestic Inequality, Heterogeneous Redistribution, and Exit from International Agreements. _(under review)_
 
