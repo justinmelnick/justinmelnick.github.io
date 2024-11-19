@@ -18,7 +18,7 @@ nav_order: 2
 
 1. Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. Political Life Cycles. _(conditionally accepted, Journal of Politics)_
 
-      [[manuscript]](https://justinmelnick.github.io/assets/pdf/PLC_March2023.pdf)
+      [[manuscript]](https://justinmelnick.github.io/assets/pdf/PLC.pdf)  [[replication]](https://doi.org/10.7910/DVN/HVHKDQ)
 
 2. Melnick, Justin and Alastair Smith. Shaming Paris: A Political Economy of Climate Commitments. _(revise and resubmit, International Organization)_
 
