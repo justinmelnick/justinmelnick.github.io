@@ -12,7 +12,7 @@ nav_order: 2
 
 1. Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. 2024. Political Life Cycles. Forthcoming, _Journal of Politics_.
 
-      [[manuscript]](https://justinmelnick.github.io/assets/pdf/PLC.pdf)  [[replication]](https://doi.org/10.7910/DVN/HVHKDQ)
+      [[manuscript]](https://justinmelnick.github.io/assets/pdf/PLC.pdf) [[appendix]](https://justinmelnick.github.io/assets/pdf/PLC_appendix_JOP.pdf)  [[replication]](https://doi.org/10.7910/DVN/HVHKDQ)
 
 2. Melnick, Justin. 2024. Domestic Politics in the European Union’s Emissions Trading
 System: Evidence from Free Allowance Allocation. Forthcoming, _Journal of Political Institutions and Political Economy._
