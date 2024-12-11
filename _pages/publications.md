@@ -37,9 +37,13 @@ System: Evidence from Free Allowance Allocation. Forthcoming, _Journal of Politi
 
    [[manuscript]](https://justinmelnick.github.io/assets/pdf/mechdesign.pdf)
 
+4. Melnick, Justin. 2024. Information and Climate (In)action.
+
+   [[manuscript]](https://justinmelnick.github.io/assets/pdf/inaction.pdf)
+
 <h3>works in progress</h3>
 
-1. Melnick, Justin. 2024. Information and Climate (In)action.
+1. Melnick, Justin. 2024. Where Did the Green Voters Go?
 
 2. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
 
