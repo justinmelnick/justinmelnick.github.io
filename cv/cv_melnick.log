@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  13 DEC 2024 12:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  15 DEC 2024 17:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -182,10 +182,10 @@ Overfull \hbox (48.35269pt too wide) in paragraph at lines 104--108
 
 [2] [3] (./cv_melnick.aux) ) 
 Here is how much of TeX's memory you used:
- 1711 strings out of 480608
- 25103 string characters out of 5903631
- 276278 words of memory out of 5000000
- 17626 multiletter control sequences out of 15000+600000
+ 1710 strings out of 480608
+ 25090 string characters out of 5903631
+ 276275 words of memory out of 5000000
+ 17625 multiletter control sequences out of 15000+600000
  536846 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,9n,31p,963b,259s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -198,7 +198,7 @@ msfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-sup
 er/sfrm1095.pfb>
-Output written on cv_melnick.pdf (3 pages, 99326 bytes).
+Output written on cv_melnick.pdf (3 pages, 99319 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
