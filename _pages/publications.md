@@ -27,7 +27,7 @@ System: Evidence from Free Allowance Allocation. Forthcoming, _Journal of Politi
 
 1. Melnick, Justin and Alastair Smith. 2024. Shaming Paris: A Political Economy of Climate Commitments. _(conditionally accepted, International Organization)_
 
-      [[manuscript]](https://justinmelnick.github.io/assets/pdf/paris_full.pdf)
+      [[manuscript]](https://justinmelnick.github.io/assets/pdf/paris.pdf)   [[appendix]](https://justinmelnick.github.io/assets/pdf/paris_appendix_IO.pdf)
    
 2. Melnick, Justin. 2024. Domestic Inequality, Heterogeneous Redistribution, and Exit from International Agreements. _(under review)_
 
