@@ -20,11 +20,13 @@ social: true  # includes social icons at the bottom of the page
 
 Hi. I am a Ph.D. candidate in the [Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) at New York University. 
 
-I write on international politics and political economy. I am interested in the interdependence between domestic politics and international cooperation, and explore these entanglements by leveraging game-theoretic tools and quantitative methods.
+I write on international politics and political economy, with a substantive focus on climate change policy and a methodological emphasis on game-theoretic and quantitative tools.
+
+<!-- . I am interested in the interdependence between domestic politics and international cooperation, and explore these entanglements by leveraging game-theoretic tools and quantitative methods.
 
 My current research falls into two broad programs:
 1. the political economy of climate change policy;
-2. the domestic incentives to negotiate, renegotiate, or withdraw from international agreements.
+2. the domestic incentives to negotiate, renegotiate, or withdraw from international agreements. -->
 
 My work has been published or is forthcoming in the _Journal of Politics_, the _Journal of Conflict Resolution_, and the _Journal of Political Institutions and Political Economy_, and is conditionally accepted at _International Organization_. My research has been supported by grants from EGAP.
 
