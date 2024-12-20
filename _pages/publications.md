@@ -43,11 +43,13 @@ System: Evidence from Free Allowance Allocation. Forthcoming, _Journal of Politi
 
 <h3>works in progress</h3>
 
-1. Melnick, Justin. 2024. Where Did the Green Voters Go?
+1. Melnick, Justin, 2024. Climate Change Policy is in Season: Complementarities in Global Climate Action.
 
-2. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
+2. Melnick, Justin. 2024. Where Did the Green Voters Go?
 
-3. Castillo-Quintana, Martin and Justin Melnick. 2023. A Theory of the Consequences of Private Military Companies.  
+3. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
+
+4. Castillo-Quintana, Martin and Justin Melnick. 2023. A Theory of the Consequences of Private Military Companies.  
 
 <h3>other writing</h3>
 
