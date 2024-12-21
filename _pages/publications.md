@@ -15,7 +15,7 @@ nav_order: 2
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/PLC.pdf) [[appendix]](https://justinmelnick.github.io/assets/pdf/PLC_appendix_JOP.pdf)  [[replication]](https://doi.org/10.7910/DVN/HVHKDQ)
 
 2. Melnick, Justin. 2024. Domestic Politics in the European Union’s Emissions Trading
-System: Evidence from Free Allowance Allocation. _Journal of Political Institutions and Political Economy_ 5(4): 627-657.
+System: Evidence from Free Allowance Allocation. _Journal of Political Institutions and Political Economy_, 5(4): 627-657.
 
    [[manuscript]](https://justinmelnick.github.io/assets/pdf/ets.pdf)  [[appendix]](https://justinmelnick.github.io/assets/pdf/ets_appendix.pdf)
 
