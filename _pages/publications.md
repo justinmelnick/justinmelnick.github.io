@@ -15,11 +15,11 @@ nav_order: 2
       [[manuscript]](https://justinmelnick.github.io/assets/pdf/PLC.pdf) [[appendix]](https://justinmelnick.github.io/assets/pdf/PLC_appendix_JOP.pdf)  [[replication]](https://doi.org/10.7910/DVN/HVHKDQ)
 
 2. Melnick, Justin. 2024. Domestic Politics in the European Union’s Emissions Trading
-System: Evidence from Free Allowance Allocation. _Journal of Political Institutions and Political Economy_, 5(4): 627-657.
+System: Evidence from Free Allowance Allocation. _Journal of Political Institutions and Political Economy_ 5(4): 627-657.
 
    [[manuscript]](https://justinmelnick.github.io/assets/pdf/ets.pdf)  [[appendix]](https://justinmelnick.github.io/assets/pdf/ets_appendix.pdf)
 
-3. Melnick, Justin and Alastair Smith. 2023. International Negotiations in the Shadow of Elections. _Journal of Conflict Resolution_, 67(7-8): 1452-1481.
+3. Melnick, Justin and Alastair Smith. 2023. International Negotiations in the Shadow of Elections. _Journal of Conflict Resolution_ 67(7-8): 1452-1481.
 
    [[journal]](https://journals.sagepub.com/doi/abs/10.1177/00220027221139433)     [[pre-print]](https://justinmelnick.github.io/assets/pdf/text_10_27.pdf)     [[appendix]](https://justinmelnick.github.io/assets/pdf/nego_online.pdf)
 
