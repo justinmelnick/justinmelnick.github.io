@@ -12,34 +12,34 @@ nav_order: 2
 
 1. Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. 2024. Political Life Cycles. Forthcoming, _Journal of Politics_.
 
-      [[manuscript]](https://justinmelnick.github.io/assets/pdf/PLC.pdf) [[appendix]](https://justinmelnick.github.io/assets/pdf/PLC_appendix_JOP.pdf)  [[replication]](https://doi.org/10.7910/DVN/HVHKDQ)
+      [[manuscript]](https://justinmelnick.github.io/papers/plc/paper.pdf) [[appendix]](https://justinmelnick.github.io/papers/plc/appendix.pdf)  [[replication]](https://doi.org/10.7910/DVN/HVHKDQ)
 
 2. Melnick, Justin. 2024. Domestic Politics in the European Union’s Emissions Trading
 System: Evidence from Free Allowance Allocation. _Journal of Political Institutions and Political Economy_ 5(4): 627-657.
 
-   [[journal]](http://dx.doi.org/10.1561/113.00000113)   [[pre-print]](https://justinmelnick.github.io/assets/pdf/ets.pdf)  [[appendix]](https://justinmelnick.github.io/assets/pdf/ets_appendix.pdf)
+   [[journal]](http://dx.doi.org/10.1561/113.00000113)   [[pre-print]](https://justinmelnick.github.io/papers/ets/paper.pdf)  [[appendix]](https://justinmelnick.github.io/papers/ets/appendix.pdf)
 
 3. Melnick, Justin and Alastair Smith. 2023. International Negotiations in the Shadow of Elections. _Journal of Conflict Resolution_ 67(7-8): 1452-1481.
 
-   [[journal]](https://journals.sagepub.com/doi/abs/10.1177/00220027221139433)     [[pre-print]](https://justinmelnick.github.io/assets/pdf/text_10_27.pdf)     [[appendix]](https://justinmelnick.github.io/assets/pdf/nego_online.pdf)
+   [[journal]](https://journals.sagepub.com/doi/abs/10.1177/00220027221139433)     [[pre-print]](https://justinmelnick.github.io/papers/nego/paper.pdf)     [[appendix]](https://justinmelnick.github.io/papers/nego/appendix.pdf)
 
 <h3>working papers</h3>
 
 1. Melnick, Justin and Alastair Smith. 2024. Shaming Paris: A Political Economy of Climate Commitments. _(conditionally accepted, International Organization)_
 
-      [[manuscript]](https://justinmelnick.github.io/assets/pdf/paris.pdf)   [[appendix]](https://justinmelnick.github.io/assets/pdf/paris_appendix_IO.pdf)
+      [[manuscript]](https://justinmelnick.github.io/papers/paris/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/paris/appendix.pdf)
    
 2. Melnick, Justin. 2024. Domestic Inequality, Heterogeneous Redistribution, and Exit from International Agreements. _(revise and resubmit, Journal of Theoretical Politics)_
 
-      [[manuscript]](https://justinmelnick.github.io/assets/pdf/exit_6_23.pdf)
+      [[manuscript]](https://justinmelnick.github.io/papers/exit/paper.pdf)
 
 3. Melnick, Justin. 2024. Global Public Goods Provision, Information Dissemination, and Domestic Politics. _(under review)_
 
-   [[manuscript]](https://justinmelnick.github.io/assets/pdf/mechdesign.pdf)
+   [[manuscript]](https://justinmelnick.github.io/papers/mechdesign/paper.pdf)
 
-4. Melnick, Justin. 2024. Information and Climate (In)action.
+4. Melnick, Justin. 2025. Information and Climate (In)action.
 
-   [[manuscript]](https://justinmelnick.github.io/assets/pdf/inaction.pdf)
+   [[manuscript]](https://justinmelnick.github.io/papers/inaction/paper.pdf)
 
 <h3>works in progress</h3>
 
