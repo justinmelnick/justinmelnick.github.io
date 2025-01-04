@@ -49,7 +49,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
 3. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
 
-4. Castillo-Quintana, Martin and Justin Melnick. 2023. A Theory of the Consequences of Private Military Companies.  
+<!-- 4. Castillo-Quintana, Martin and Justin Melnick. 2023. A Theory of the Consequences of Private Military Companies.  -->
 
 <h3>other writing</h3>
 
