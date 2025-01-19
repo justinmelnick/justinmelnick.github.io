@@ -39,7 +39,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
 4. Melnick, Justin. 2025. Information and Climate (In)action.
 
-   [[manuscript]](https://justinmelnick.github.io/papers/inaction/paper.pdf)
+   [[manuscript]](https://justinmelnick.github.io/papers/inaction/paper.pdf)  [[appendix]](https://justinmelnick.github.io/papers/inaction/appendix.pdf)
 
 <h3>works in progress</h3>
 
