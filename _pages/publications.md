@@ -33,17 +33,17 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
       [[manuscript]](https://justinmelnick.github.io/papers/exit/paper.pdf)
 
-3. Melnick, Justin. 2024. Global Public Goods Provision, Information Dissemination, and Domestic Politics. _(under review)_
-
- <!--   [[manuscript]](https://justinmelnick.github.io/papers/mechdesign/paper.pdf) -->
-
-4. Melnick, Justin. 2025. Information and Climate (In)action.
+3. Melnick, Justin. 2025. Information and Climate (In)action.
 
    [[manuscript]](https://justinmelnick.github.io/papers/inaction/paper.pdf)  [[appendix]](https://justinmelnick.github.io/papers/inaction/appendix.pdf)
 
+4. Melnick, Justin. 2025. Global Public Goods Provision, Information Dissemination, and Domestic Politics. _(under review)_
+
+ <!--   [[manuscript]](https://justinmelnick.github.io/papers/mechdesign/paper.pdf) -->
+
 <h3>works in progress</h3>
 
-1. Melnick, Justin, 2024. Climate Change Policy is in Season: Complementarities in Global Climate Action.
+1. Melnick, Justin, 2025. Climate Change Policy is in Season: Complementarities in Global Climate Action.
 
 2. Melnick, Justin. 2024. Where Did the Green Voters Go?
 
