@@ -29,7 +29,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
       [[manuscript]](https://justinmelnick.github.io/papers/paris/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/paris/appendix.pdf)
    
-2. Melnick, Justin. 2024. Domestic Inequality, Heterogeneous Redistribution, and Exit from International Agreements. _(revise and resubmit, Journal of Theoretical Politics)_
+2. Melnick, Justin. 2025. Domestic Inequality, Heterogeneous Redistribution, and the Globalization Backlash. _(revise and resubmit, Journal of Theoretical Politics)_
 
       [[manuscript]](https://justinmelnick.github.io/papers/exit/paper.pdf)
 
