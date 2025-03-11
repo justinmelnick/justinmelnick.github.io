@@ -39,7 +39,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
 3. Melnick, Justin. 2025. Global Public Goods Provision, Information Dissemination, and Domestic Politics. _(under review)_
 
-  [[manuscript]](https://justinmelnick.github.io/papers/mechdesign/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/mechdesign/appendix.pdf) 
+   [[manuscript]](https://justinmelnick.github.io/papers/mechdesign/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/mechdesign/appendix.pdf) 
 
 <h3>works in progress</h3>
 
