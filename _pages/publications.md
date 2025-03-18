@@ -10,6 +10,10 @@ nav_order: 2
 
 <h3>peer-reviewed articles</h3>
 
+5. Melnick, Justin. 2025. Domestic Inequality, Heterogeneous Redistribution, and the Globalization Backlash. Forthcoming, _Journal of Theoretical Politics_.
+
+      [[manuscript]](https://justinmelnick.github.io/papers/exit/paper.pdf)
+
 4. Melnick, Justin and Alastair Smith. 2025. Shaming Paris: A Political Economy of Climate Commitments. Forthcoming, _International Organization_.
 
       [[manuscript]](https://justinmelnick.github.io/papers/paris/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/paris/appendix.pdf)
@@ -28,16 +32,12 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
    [[journal]](https://journals.sagepub.com/doi/abs/10.1177/00220027221139433)     [[pre-print]](https://justinmelnick.github.io/papers/nego/paper.pdf)     [[appendix]](https://justinmelnick.github.io/papers/nego/appendix.pdf)
 
 <h3>working papers</h3>
-   
-1. Melnick, Justin. 2025. Domestic Inequality, Heterogeneous Redistribution, and the Globalization Backlash. _(revise and resubmit, Journal of Theoretical Politics)_
 
-      [[manuscript]](https://justinmelnick.github.io/papers/exit/paper.pdf)
-
-2. Melnick, Justin. 2025. Information and Climate (In)action. _(under review)_
+1. Melnick, Justin. 2025. Information and Climate (In)action. _(under review)_
 
    [[manuscript]](https://justinmelnick.github.io/papers/inaction/paper.pdf)  [[appendix]](https://justinmelnick.github.io/papers/inaction/appendix.pdf)
 
-3. Melnick, Justin. 2025. Global Public Goods Provision, Information Dissemination, and Domestic Politics. _(under review)_
+2. Melnick, Justin. 2025. Global Public Goods Provision, Information Dissemination, and Domestic Politics. _(under review)_
 
    [[manuscript]](https://justinmelnick.github.io/papers/mechdesign/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/mechdesign/appendix.pdf) 
 
