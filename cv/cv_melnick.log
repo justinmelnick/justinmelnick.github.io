@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  4 MAY 2025 14:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  14 MAY 2025 19:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -341,31 +341,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--42
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-./cv_melnick.tex:106: Package array Error: Missing arg: token ignored.
+./cv_melnick.tex:112: Package array Error: Missing arg: token ignored.
 
 See the array package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.106 ...tabular}{@{\hspace*{2em}}p{6.9in}p{1in}@}
+l.112 ...tabular}{@{\hspace*{2em}}p{6.9in}p{1in}@}
                                                   
 ? 
 
-Overfull \hbox (48.35269pt too wide) in paragraph at lines 106--111
+Overfull \hbox (48.35269pt too wide) in paragraph at lines 112--117
  [][] 
  []
 
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 193.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 193.
  (./cv_melnick.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 187.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 193.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 193.
  ) 
 Here is how much of TeX's memory you used:
- 6117 strings out of 480608
- 93743 string characters out of 5903631
+ 6118 strings out of 480608
+ 93749 string characters out of 5903631
  369223 words of memory out of 5000000
  21909 multiletter control sequences out of 15000+600000
  536846 words of font info for 39 fonts, out of 8000000 for 9000
@@ -379,10 +379,10 @@ sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
 local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/lo
 cal/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on cv_melnick.pdf (3 pages, 99290 bytes).
+Output written on cv_melnick.pdf (3 pages, 99860 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
+ 70 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
