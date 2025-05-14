@@ -55,13 +55,13 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
 <h3>other writing</h3>
 
-<h4>case studies</h4>
+<h5>case studies</h5>
 
 1. Melnick, Justin. 2023. The Politics of Formulating and Implementing Climate Policies in the Netherlands. EGAP.
 
     [[pdf]](https://justinmelnick.github.io/papers/ets/case.pdf)
 
-<h4>commentary</h4>
+<h5>commentary</h5>
 
 1. Jan, Farah and Justin Melnick. 2019. After Trump’s Hong Kong Democracy Act, China Is Still Winning, _Foreign Policy_.
 
