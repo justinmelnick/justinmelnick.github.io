@@ -29,6 +29,6 @@ nav_order: 5
 
 - **Politics of Climate Change** -- T.A. for Eric Dickson, Spring 2023; Fall 2025 (scheduled)
 
-- **Research Methods for Politics** (Undergraduate) -- T.A. for Anna Harvey, Spring 2022
+- **Research Methods for Politics** -- T.A. for Anna Harvey, Spring 2022
 
 - **U.S. Politics and Policy in 2022 and Beyond** -- T.A. for Pat Egan, January 2022
