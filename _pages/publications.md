@@ -37,13 +37,14 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/inaction/paper.pdf)  [[appendix]](https://justinmelnick.github.io/papers/inaction/appendix.pdf)
 
+2. Melnick, Justin. 2025. Where Did the Green Voters Go? Green Party Vote Shares and Public Support for Climate Policy. 
+
+   [[manuscript]](https://justinmelnick.github.io/papers/greens/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/greens/appendix.pdf) 
+
 <!-- 2. Melnick, Justin. 2025. Global Public Goods Provision, Information Dissemination, and Domestic Politics.
 
    [[manuscript]](https://justinmelnick.github.io/papers/mechdesign/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/mechdesign/appendix.pdf) -->
 
-2. Melnick, Justin. 2025. Where Did the Green Voters Go? Green Party Vote Shares and Public Support for Climate Policy. 
-
-   [[manuscript]](https://justinmelnick.github.io/papers/greens/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/greens/appendix.pdf) 
 
 <h3>works in progress</h3>
 
