@@ -9,6 +9,8 @@ nav_order: 5
 
 <h3>graduate</h3>
 
+- **Quantitative Political Analysis IV** (Ph.D.) -- T.A. for Tara Slough, Spring 2026 (scheduled)
+
 - **Game Theory I** (Ph.D.) -- T.A. for Gaétan Nandong, Spring 2024
 
 - **Quantitative Political Analysis I** (Ph.D.) -- T.A. for Neal Beck, Fall 2022; Fall 2021
@@ -25,7 +27,7 @@ nav_order: 5
 
 - **International Politics** -- T.A. for Nicole Simonelli, Fall 2023
 
-- **Politics of Climate Change** -- T.A. for Eric Dickson, Spring 2023
+- **Politics of Climate Change** -- T.A. for Eric Dickson, Spring 2023; Fall 2025 (scheduled)
 
 - **Research Methods for Politics** (Undergraduate) -- T.A. for Anna Harvey, Spring 2022
 
