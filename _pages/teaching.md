@@ -21,13 +21,13 @@ nav_order: 5
 
 <h3>undergraduate</h3>
 
+- **Politics of Climate Change** -- T.A. for Eric Dickson, Spring 2023; Fall 2025 (scheduled)
+
 - **Senior Honors Thesis Seminar II** -- T.A. for Chris Dawes, Spring 2025
 
 - **Senior Honors Thesis Seminar I** -- T.A. for Alastair Smith, Fall 2024
 
 - **International Politics** -- T.A. for Nicole Simonelli, Fall 2023
-
-- **Politics of Climate Change** -- T.A. for Eric Dickson, Spring 2023; Fall 2025 (scheduled)
 
 - **Research Methods for Politics** -- T.A. for Anna Harvey, Spring 2022
 
