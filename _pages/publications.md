@@ -52,9 +52,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
 2. Melnick, Justin. 2025. Coordination and Agency Problems in International Climate Finance.
 
-3. Melnick, Justin. 2025. International Cooperation, Information Dissemination, and Domestic Politics.
-
-4. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
+3. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
 
 <!-- 4. Castillo-Quintana, Martin and Justin Melnick. 2023. A Theory of the Consequences of Private Military Companies.  -->
 
