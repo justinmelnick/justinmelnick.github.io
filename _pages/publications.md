@@ -41,9 +41,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/greens/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/greens/appendix.pdf) 
 
-<!-- 2. Melnick, Justin. 2025. Global Public Goods Provision, Information Dissemination, and Domestic Politics.
-
-   [[manuscript]](https://justinmelnick.github.io/papers/mechdesign/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/mechdesign/appendix.pdf) -->
+3. Kennard, Amanda and Justin Melnick. 2025. Divergent Decarbonization: Great Power Competition and the Coming Climate Transition. 
 
 
 <h3>works in progress</h3>
@@ -52,7 +50,9 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
 2. Melnick, Justin. 2025. Coordination and Agency Problems in International Climate Finance.
 
-3. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
+3. Melnick, Justin. 2025. Leaders and Followers in International Climate Politics.
+
+4. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
 
 <!-- 4. Castillo-Quintana, Martin and Justin Melnick. 2023. A Theory of the Consequences of Private Military Companies.  -->
 
