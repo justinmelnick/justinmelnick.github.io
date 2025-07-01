@@ -14,13 +14,13 @@ nav_order: 2
 
       [[journal]](https://doi.org/10.1177/09516298251333773)   [[pre-print]](https://justinmelnick.github.io/papers/exit/paper.pdf)
 
-4. Melnick, Justin and Alastair Smith. 2025. Shaming Paris: A Political Economy of Climate Commitments. Forthcoming, _International Organization_.
-
-      [[manuscript]](https://justinmelnick.github.io/papers/paris/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/paris/appendix.pdf)
-
-3. Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. 2024. Political Life Cycles. Forthcoming, _Journal of Politics_.
+4. Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. 2024. Political Life Cycles. Forthcoming, _Journal of Politics_.
 
       [[manuscript]](https://justinmelnick.github.io/papers/plc/paper.pdf) [[appendix]](https://justinmelnick.github.io/papers/plc/appendix.pdf)  [[replication]](https://doi.org/10.7910/DVN/HVHKDQ)
+
+3. Melnick, Justin and Alastair Smith. 2025. Shaming Paris: A Political Economy of Climate Commitments. _International Organization_ 79(2): 281-305.
+
+   [[journal]](https://doi.org/10.1017/S0020818325000074)   [[pre-print]](https://justinmelnick.github.io/papers/paris/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/paris/appendix.pdf)
 
 2. Melnick, Justin. 2024. Domestic Politics in the European Union’s Emissions Trading
 System: Evidence from Free Allowance Allocation. _Journal of Political Institutions and Political Economy_ 5(4): 627-657.
