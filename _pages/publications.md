@@ -46,7 +46,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
 <h3>works in progress</h3>
 
-1. Melnick, Justin. 2025. Learning and Free-Riding in International Climate Policy.
+1. Melnick, Justin. 2025. Learning and Free-Riding in International Climate Policymaking.
 
 2. Melnick, Justin. 2025. Coordination and Agency Problems in International Climate Finance.
 
