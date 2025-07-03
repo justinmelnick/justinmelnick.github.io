@@ -43,6 +43,8 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
 3. Kennard, Amanda and Justin Melnick. 2025. Divergent Decarbonization: Great Power Competition and the Coming Climate Transition. 
 
+   [[manuscript]](https://justinmelnick.github.io/papers/future/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/future/appendix.pdf) 
+
 
 <h3>works in progress</h3>
 
