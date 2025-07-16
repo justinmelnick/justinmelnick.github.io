@@ -33,28 +33,30 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
 <h3>working papers</h3>
 
-1. Melnick, Justin. 2025. Information and Climate (In)action.
+1. Melnick, Justin. 2025. Learning and Free-Riding in International Climate Policymaking. (_job market paper_)
+
+   [[manuscript]](https://justinmelnick.github.io/papers/complementarities/paper.pdf)  [[appendix]](https://justinmelnick.github.io/papers/complementarities/appendix.pdf)
+
+2. Melnick, Justin. 2025. Information and Climate (In)action.
 
    [[manuscript]](https://justinmelnick.github.io/papers/inaction/paper.pdf)  [[appendix]](https://justinmelnick.github.io/papers/inaction/appendix.pdf)
 
-2. Melnick, Justin. 2025. Where Did the Green Voters Go? Green Party Vote Shares and Public Support for Climate Policy. 
+3. Melnick, Justin. 2025. Where Did the Green Voters Go? Green Party Vote Shares and Public Support for Climate Policy. 
 
    [[manuscript]](https://justinmelnick.github.io/papers/greens/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/greens/appendix.pdf) 
 
-3. Kennard, Amanda and Justin Melnick. 2025. Divergent Decarbonization: Great Power Competition and the Coming Climate Transition. 
+4. Kennard, Amanda and Justin Melnick. 2025. Divergent Decarbonization: Great Power Competition and the Coming Climate Transition. 
 
    [[manuscript]](https://justinmelnick.github.io/papers/future/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/future/appendix.pdf) 
 
 
 <h3>works in progress</h3>
 
-1. Melnick, Justin. 2025. Learning and Free-Riding in International Climate Policymaking.
+1. Melnick, Justin. 2025. Coordination and Agency Problems in International Climate Finance.
 
-2. Melnick, Justin. 2025. Coordination and Agency Problems in International Climate Finance.
+2. Melnick, Justin. 2025. Leaders and Followers in International Climate Politics.
 
-3. Melnick, Justin. 2025. Leaders and Followers in International Climate Politics.
-
-4. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
+3. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
 
 <!-- 4. Castillo-Quintana, Martin and Justin Melnick. 2023. A Theory of the Consequences of Private Military Companies.  -->
 
