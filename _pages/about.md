@@ -20,9 +20,11 @@ social: true  # includes social icons at the bottom of the page
 
 Hi. I am a Ph.D. candidate in the [Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) at New York University. I am on the 2025-2026 academic job market.
 
-I write on international politics and political economy, with a methodological emphasis on game-theoretic and causal inference tools. In particular, I study the role of information and uncertainty in leaders’ incentives to supply global public goods as well as the effects of domestic politics on international relations, each with applications to climate change cooperation.
+I write on international politics and political economy, with a methodological emphasis on game-theoretic and causal inference tools. My current research focuses on the political economy of climate change.
 
-<!-- . I am particularly interested in studying the domestic politics of international cooperation and developing theories about the roles of information and uncertainty in climate politics.
+<!-- In particular, I study the role of information and uncertainty in leaders’ incentives to supply global public goods as well as the effects of domestic politics on international relations, each with applications to climate change cooperation.
+
+ . I am particularly interested in studying the domestic politics of international cooperation and developing theories about the roles of information and uncertainty in climate politics.
 
 I am interested in the interdependence between domestic politics and international cooperation, and explore these entanglements by leveraging game-theoretic tools and quantitative methods.
 
