@@ -45,7 +45,12 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/greens/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/greens/appendix.pdf) 
 
-4. Kennard, Amanda and Justin Melnick. 2025. Divergent Decarbonization: Great Power Competition and the Coming Climate Transition. 
+4. Melnick, Justin. 2025. Pledge-and-Review, Domestic Politics, and Global
+Public Goods Provision.
+
+   [[manuscript]](https://justinmelnick.github.io/papers/pledge/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/pledge/appendix.pdf) 
+
+5. Kennard, Amanda and Justin Melnick. 2025. Divergent Decarbonization: Great Power Competition and the Coming Climate Transition. 
 
    [[manuscript]](https://justinmelnick.github.io/papers/future/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/future/appendix.pdf) 
 
