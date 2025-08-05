@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi. I am a Ph.D. candidate in the [Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) at New York University. I am on the 2025-2026 academic job market.
+Hi. I am a Ph.D. candidate in the [Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) at New York University. I am also an inaugural NYU Climate Doctoral Fellow with [NYU's Climate Initiative](https://www.nyu.edu/academics/interdisciplinary-initiatives/climate.html). I am on the 2025-2026 academic job market.
 
 I write on international politics and political economy, with a methodological emphasis on game-theoretic and causal inference tools. My current research focuses on the political economy of climate change.
 
