@@ -50,7 +50,7 @@ Public Goods Provision.
 
    [[manuscript]](https://justinmelnick.github.io/papers/pledge/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/pledge/appendix.pdf) 
 
-5. Kennard, Amanda and Justin Melnick. 2025. Divergent Decarbonization: Great Power Competition and the Coming Climate Transition. 
+5. Kennard, Amanda and Justin Melnick. 2025. Divergent Decarbonization: Great Power Competition and the Coming Climate Transition. _(revise and resubmit, International Organization)_
 
    [[manuscript]](https://justinmelnick.github.io/papers/future/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/future/appendix.pdf) 
 
