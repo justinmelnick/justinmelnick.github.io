@@ -14,7 +14,7 @@ nav_order: 2
 
       [[journal]](https://doi.org/10.1177/09516298251333773)   [[pre-print]](https://justinmelnick.github.io/papers/exit/paper.pdf)
 
-4. Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. 2024. Political Life Cycles. Forthcoming, _Journal of Politics_.
+4. Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. 2026. Political Life Cycles. _Journal of Politics_ 88(1).
 
       [[manuscript]](https://justinmelnick.github.io/papers/plc/paper.pdf) [[appendix]](https://justinmelnick.github.io/papers/plc/appendix.pdf)  [[replication]](https://doi.org/10.7910/DVN/HVHKDQ)
 
