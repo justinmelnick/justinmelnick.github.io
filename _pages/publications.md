@@ -49,9 +49,9 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/pledge/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/pledge/appendix.pdf) 
 
-5. Kennard, Amanda and Justin Melnick. 2025. Divergent Decarbonization: Great Power Competition and the Coming Climate Transition. 
+5. Kennard, Amanda and Justin Melnick. 2025. Repealing the ``Green New Scam'': Impacts of the 2024 U.S. Presidential Election on Green Stock Prices.
 
-   [[manuscript]](https://justinmelnick.github.io/papers/future/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/future/appendix.pdf) 
+   [[manuscript]](https://justinmelnick.github.io/papers/scam/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/scam/appendix.pdf) 
 
 
 <h3>works in progress</h3>
@@ -60,7 +60,9 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
 2. Melnick, Justin. 2025. Leaders and Followers in International Climate Politics.
 
-3. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
+3. Kennard, Amanda and Justin Melnick. 2025. Divergent Decarbonization: Great Power Competition and the Coming Climate Transition. 
+
+4. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
 
 <!-- 4. Castillo-Quintana, Martin and Justin Melnick. 2023. A Theory of the Consequences of Private Military Companies.  -->
 
