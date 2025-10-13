@@ -53,6 +53,9 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/scam/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/scam/appendix.pdf) 
 
+6. Melnick, Justin and Alastair Smith. Staying in Power, Cutting the Power: Leader Tenure and Electricity Distribution.
+
+   [[manuscript]](https://justinmelnick.github.io/papers/electricity/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/electricity/appendix.pdf) 
 
 <h3>works in progress</h3>
 

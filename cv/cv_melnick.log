@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  10 OCT 2025 10:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  13 OCT 2025 12:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -336,17 +336,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--42
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
-./cv_melnick.tex:128: Package array Error: Missing arg: token ignored.
+./cv_melnick.tex:130: Package array Error: Missing arg: token ignored.
 
 See the array package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.128 ...tabular}{@{\hspace*{2em}}p{6.9in}p{1in}@}
+l.130 ...tabular}{@{\hspace*{2em}}p{6.9in}p{1in}@}
                                                   
 ? 
 
-Overfull \hbox (48.35269pt too wide) in paragraph at lines 128--133
+Overfull \hbox (48.35269pt too wide) in paragraph at lines 130--135
  [][] 
  []
 
@@ -361,9 +361,9 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 9189 strings out of 473190
- 143612 string characters out of 5715801
- 556339 words of memory out of 5000000
+ 9190 strings out of 473190
+ 143619 string characters out of 5715801
+ 557339 words of memory out of 5000000
  32338 multiletter control sequences out of 15000+600000
  563345 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -375,10 +375,10 @@ usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
 /local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/l
 ocal/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on cv_melnick.pdf (3 pages, 108343 bytes).
+Output written on cv_melnick.pdf (3 pages, 108516 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
+ 89 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
