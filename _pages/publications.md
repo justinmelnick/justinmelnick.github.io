@@ -63,7 +63,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
 2. Melnick, Justin. 2025. Leaders and Followers in International Climate Politics.
 
-3. Kennard, Amanda and Justin Melnick. 2025.Shifting Gears: The Transformation of Climate Governance and the Rise of Green Industrial Policy.
+3. Kennard, Amanda and Justin Melnick. 2025. Shifting Gears: The Transformation of Climate Governance and the Rise of Green Industrial Policy.
 
 4. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
 
