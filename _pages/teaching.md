@@ -21,7 +21,7 @@ nav_order: 5
 
 <h3>undergraduate</h3>
 
-- **Politics of Climate Change** -- T.A. for Eric Dickson, Spring 2023; Fall 2025 (scheduled)
+- **Politics of Climate Change** -- T.A. for Eric Dickson, Spring 2023; Fall 2025
 
 - **Senior Honors Thesis Seminar II** -- T.A. for Chris Dawes, Spring 2025
 
