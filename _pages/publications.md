@@ -10,7 +10,7 @@ nav_order: 2
 
 <h3>peer-reviewed articles</h3>
 
-5. Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. 2026. Political Life Cycles. _Journal of Politics_ 88(1).
+5. Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. 2026. Political Life Cycles. _Journal of Politics_ 88(1): 363-376.
 
       [[journal]](https://www.journals.uchicago.edu/doi/10.1086/734281)   [[pre-print]](https://justinmelnick.github.io/papers/plc/paper.pdf) [[appendix]](https://justinmelnick.github.io/papers/plc/appendix.pdf)  [[replication]](https://doi.org/10.7910/DVN/HVHKDQ)
 
