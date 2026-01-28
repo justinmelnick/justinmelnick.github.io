@@ -18,9 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi. I am a Ph.D. candidate in the [Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) at New York University. I am also an inaugural NYU Climate Doctoral Fellow with [NYU's Climate Initiative](https://www.nyu.edu/academics/interdisciplinary-initiatives/climate.html). I am on the 2025-2026 academic job market.
+Hi. I am a Ph.D. candidate in the [Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) at New York University. In Fall 2027, I will join the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin as an Assistant Professor, after an appointment as a Postdoctoral Research Associate at the [Niehaus Center for Globalization and Governance](https://niehaus.princeton.edu/) at Princeton University.
 
-I write on international politics and political economy, with a methodological emphasis on game-theoretic and causal inference tools. My current research focuses on the political economy of climate change.
+<!-- I write on international politics and political economy, with a methodological emphasis on game-theoretic and causal inference tools. My current research focuses on the political economy of climate change. -->
 
 <!-- In particular, I study the role of information and uncertainty in leaders’ incentives to supply global public goods as well as the effects of domestic politics on international relations, each with applications to climate change cooperation.
 
@@ -32,6 +32,7 @@ My current research falls into two broad programs:
 1. the political economy of climate change policy;
 2. the domestic incentives to negotiate, renegotiate, or withdraw from international agreements. -->
 
+My research uses formal theory and quantitative methods to explore topics in international relations and political economy with applications to the politics of climate change. 
 My work has been published or is forthcoming in _International Organization_, the _Journal of Politics_, the _Journal of Conflict Resolution_, the _Journal of Theoretical Politics_, and the _Journal of Political Institutions and Political Economy_. My research has been supported by grants from EGAP.
 
 I hold a B.A. in International Relations and Economics from the University of Pennsylvania.

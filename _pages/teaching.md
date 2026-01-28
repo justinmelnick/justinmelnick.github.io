@@ -9,7 +9,7 @@ nav_order: 5
 
 <h3>graduate</h3>
 
-- **Quantitative Political Analysis IV** (Ph.D.) -- T.A. for Tara Slough, Spring 2026 (scheduled)
+- **Quantitative Political Analysis IV** (Ph.D.) -- T.A. for Tara Slough, Spring 2026
 
 - **Game Theory I** (Ph.D.) -- T.A. for Gaétan Nandong, Spring 2024
 

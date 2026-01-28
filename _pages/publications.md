@@ -33,7 +33,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
 <h3>working papers</h3>
 
-1. Melnick, Justin. 2025. Learning and Free-Riding in International Climate Policymaking.  _(job market paper)_
+1. Melnick, Justin. 2025. Learning and Free-Riding in International Climate Policymaking.  
 
    [[manuscript]](https://justinmelnick.github.io/papers/complementarities/paper.pdf)  [[appendix]](https://justinmelnick.github.io/papers/complementarities/appendix.pdf)
 
@@ -41,7 +41,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/inaction/paper.pdf)  [[appendix]](https://justinmelnick.github.io/papers/inaction/appendix.pdf)
 
-3. Melnick, Justin. 2025. Where Did the Green Voters Go? Green Party Vote Shares and Public Support for Climate Policy. 
+3. Melnick, Justin. 2026. Green Party Vote Shares and Public Support for Climate Policy. 
 
    [[manuscript]](https://justinmelnick.github.io/papers/greens/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/greens/appendix.pdf) 
 
@@ -53,11 +53,11 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/scam/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/scam/appendix.pdf) 
 
-6. Melnick, Justin and Alastair Smith. 2025. Staying in Power, Cutting the Power: Leader Tenure and Electricity Distribution.
+6. Melnick, Justin and Alastair Smith. 2026. Staying in Power, Cutting the Power: Leader Tenure and Electricity Distribution.
 
    [[manuscript]](https://justinmelnick.github.io/papers/electricity/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/electricity/appendix.pdf) 
 
-<h3>works in progress</h3>
+<!-- <h3>works in progress</h3>
 
 1. Melnick, Justin. 2025. Coordination and Agency Problems in International Climate Finance.
 
@@ -65,7 +65,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
 3. Kennard, Amanda and Justin Melnick. 2025. Shifting Gears: The Transformation of Climate Governance and the Rise of Green Industrial Policy.
 
-4. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. 
+4. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. -->
 
 <!-- 4. Castillo-Quintana, Martin and Justin Melnick. 2023. A Theory of the Consequences of Private Military Companies.  -->
 
