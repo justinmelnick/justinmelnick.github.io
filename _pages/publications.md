@@ -57,6 +57,10 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/electricity/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/electricity/appendix.pdf) 
 
+7. Torreblanca, Carolina and Justin Melnick. 2026. Democratic Participation without Democrats: Evidence from 109 Countries.
+
+[[manuscript]](https://justinmelnick.github.io/papers/almond/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/almond/appendix.pdf) 
+
 <!-- <h3>works in progress</h3>
 
 1. Melnick, Justin. 2025. Coordination and Agency Problems in International Climate Finance.
