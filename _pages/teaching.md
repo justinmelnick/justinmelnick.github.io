@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<h3>as teaching assistant (NYU)</h3>
+<h3>at NYU (as teaching assistant)</h3>
 
 - **graduate:** Quantitative Political Analysis IV (Ph.D.); Game Theory (Ph.D.; M.S.); Quantitative Political Analysis I (Ph.D.; M.A.)
 
