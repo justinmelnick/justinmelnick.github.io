@@ -33,7 +33,7 @@ My current research falls into two broad programs:
 2. the domestic incentives to negotiate, renegotiate, or withdraw from international agreements. -->
 
 My research uses formal theory and quantitative methods to explore topics in international relations and political economy with applications to the politics of climate change. 
-My work has been published or is forthcoming in _International Organization_, the _Journal of Politics_, the _Journal of Conflict Resolution_, the _Journal of Theoretical Politics_, and the _Journal of Political Institutions and Political Economy_. My research has been supported by grants from EGAP.
+My work has been published or is forthcoming in _International Organization_, the _Journal of Politics_, and the _Journal of Conflict Resolution_, among other outlets. My research has been supported by grants from EGAP.
 
 I hold a B.A. in International Relations and Economics from the University of Pennsylvania.
 
