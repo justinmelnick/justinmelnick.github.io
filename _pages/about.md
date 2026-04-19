@@ -37,4 +37,4 @@ My work has been published or is forthcoming in _International Organization_, th
 
 I hold a B.A. in International Relations and Economics from the University of Pennsylvania.
 
-Please feel free to contact me at: melnickj [at] nyu [dot] edu
+<!-- Please feel free to contact me at: melnickj [at] nyu [dot] edu -->
