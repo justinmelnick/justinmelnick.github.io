@@ -49,7 +49,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/pledge/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/pledge/appendix.pdf) 
 
-5. Kennard, Amanda and Justin Melnick. 2025. Repealing the ``Green New Scam'': Climate Retrenchment and Competitive Redistribution in a World of Green Industrial Policy.
+5. Kennard, Amanda and Justin Melnick. 2026. Repealing the ``Green New Scam'': Climate Retrenchment and Competitive Redistribution in a World of Green Industrial Policy.
 
    [[manuscript]](https://justinmelnick.github.io/papers/scam/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/scam/appendix.pdf) 
 
