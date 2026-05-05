@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  20 APR 2026 16:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  5 MAY 2026 13:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -358,7 +358,7 @@ Here is how much of TeX's memory you used:
  32340 multiletter control sequences out of 15000+600000
  563345 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,79p,669b,558s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,10n,79p,669b,556s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
@@ -366,7 +366,7 @@ usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
 /local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/l
 ocal/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on cv_melnick.pdf (3 pages, 106973 bytes).
+Output written on cv_melnick.pdf (3 pages, 107021 bytes).
 PDF statistics:
  87 PDF objects out of 1000 (max. 8388607)
  67 compressed objects within 1 object stream
