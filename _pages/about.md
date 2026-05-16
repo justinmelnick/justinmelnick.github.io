@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi. I am a Ph.D. candidate in the [Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) at New York University. In Fall 2027, I will join the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin as an Assistant Professor, after an appointment as a Postdoctoral Research Associate at the [Niehaus Center for Globalization and Governance](https://niehaus.princeton.edu/) at Princeton University.
+Hi. I an incoming Postdoctoral Research Associate at the [Niehaus Center for Globalization and Governance](https://niehaus.princeton.edu/) at Princeton University. In Fall 2027, I will join the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin as an Assistant Professor.
 
 <!-- I write on international politics and political economy, with a methodological emphasis on game-theoretic and causal inference tools. My current research focuses on the political economy of climate change. -->
 
@@ -35,6 +35,6 @@ My current research falls into two broad programs:
 My research uses formal theory and quantitative methods to explore topics in international relations and political economy with applications to the politics of climate change. 
 My work has been published or is forthcoming in _International Organization_, the _Journal of Politics_, and the _Journal of Conflict Resolution_, among other outlets. My research has been supported by grants from EGAP.
 
-I hold a B.A. in International Relations and Economics from the University of Pennsylvania.
+I earned a Ph.D. in Politics from New York University and a B.A. in International Relations and Economics from the University of Pennsylvania.
 
 <!-- Please feel free to contact me at: melnickj [at] nyu [dot] edu -->
