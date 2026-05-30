@@ -12,11 +12,11 @@ nav_order: 2
 
 - Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. 2026. Political Life Cycles. _Journal of Politics_ 88(1): 363-376.
 
-      [[journal]](https://www.journals.uchicago.edu/doi/10.1086/734281)   [[pre-print]](https://justinmelnick.github.io/papers/plc/paper.pdf) [[appendix]](https://justinmelnick.github.io/papers/plc/appendix.pdf)  [[replication]](https://doi.org/10.7910/DVN/HVHKDQ)
+   [[journal]](https://www.journals.uchicago.edu/doi/10.1086/734281)   [[pre-print]](https://justinmelnick.github.io/papers/plc/paper.pdf) [[appendix]](https://justinmelnick.github.io/papers/plc/appendix.pdf)  [[replication]](https://doi.org/10.7910/DVN/HVHKDQ)
 
 - Melnick, Justin. 2025. Domestic Inequality, Heterogeneous Redistribution, and the Globalization Backlash. _Journal of Theoretical Politics_ 37(4): 319-343.
 
-      [[journal]](https://doi.org/10.1177/09516298251333773)   [[pre-print]](https://justinmelnick.github.io/papers/exit/paper.pdf)
+   [[journal]](https://doi.org/10.1177/09516298251333773)   [[pre-print]](https://justinmelnick.github.io/papers/exit/paper.pdf)
 
 - Melnick, Justin and Alastair Smith. 2025. Shaming Paris: A Political Economy of Climate Commitments. _International Organization_ 79(2): 281-305.
 
