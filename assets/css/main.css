@@ -18,6 +18,9 @@
   --global-distill-app-color: #828282;
   --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #ffffff;
+  --global-link-color: #bf5700;
+  --global-link-color-hover: #bf5700;
+  --global-link-color-visited: #bf5700;
 }
 :root .fa-sun {
   display: none;
