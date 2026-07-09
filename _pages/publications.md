@@ -37,11 +37,11 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/complementarities/paper.pdf)  [[appendix]](https://justinmelnick.github.io/papers/complementarities/appendix.pdf)
 
-- Melnick, Justin. 2026. Information and Climate (In)action.
+- Melnick, Justin. 2026. Signals from Abroad: Climate Policy Appropriateness and Informational Spillovers.
 
    [[manuscript]](https://justinmelnick.github.io/papers/inaction/paper.pdf)  [[appendix]](https://justinmelnick.github.io/papers/inaction/appendix.pdf)
 
-- Melnick, Justin. 2026. Green Party Vote Shares and Public Support for Climate Policy. 
+- Melnick, Justin. 2026. Green Party Vote Shares and Public Support for Climate Policy. (revise and resubmit, _Environmental Politics_) 
 
    [[manuscript]](https://justinmelnick.github.io/papers/greens/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/greens/appendix.pdf) 
 
@@ -49,7 +49,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/pledge/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/pledge/appendix.pdf) 
 
-- Kennard, Amanda and Justin Melnick. 2026. Repealing the ``Green New Scam'': Climate Retrenchment and Competitive Redistribution in a World of Green Industrial Policy.
+- Kennard, Amanda and Justin Melnick. 2026. Expansion and Diversion in Global Green Markets: Evidence from the 2024 U.S. Election.
 
    [[manuscript]](https://justinmelnick.github.io/papers/scam/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/scam/appendix.pdf) 
 
