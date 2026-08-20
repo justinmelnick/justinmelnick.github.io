@@ -45,7 +45,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/greens/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/greens/appendix.pdf) 
 
-- Melnick, Justin. 2026. Strategic Obfuscation in International Benchmarking.
+- Melnick, Justin. 2026. Strategic Obfuscation in International Benchmarking. (revise and resubmit, _International Studies Quarterly_) 
 
    [[manuscript]](https://justinmelnick.github.io/papers/pledge/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/pledge/appendix.pdf) 
 
@@ -61,17 +61,6 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/almond/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/almond/appendix.pdf) 
 
-<!-- <h3>works in progress</h3>
-
-1. Melnick, Justin. 2025. Coordination and Agency Problems in International Climate Finance.
-
-2. Melnick, Justin. 2025. Leaders and Followers in International Climate Politics.
-
-3. Kennard, Amanda and Justin Melnick. 2025. Shifting Gears: The Transformation of Climate Governance and the Rise of Green Industrial Policy.
-
-4. Conevska, Aleksandra and Justin Melnick. 2023. Policy Interventions as Experimental Treatments: Applications to Climate Politics. -->
-
-<!-- 4. Castillo-Quintana, Martin and Justin Melnick. 2023. A Theory of the Consequences of Private Military Companies.  -->
 
 <h3>other writing</h3>
 
