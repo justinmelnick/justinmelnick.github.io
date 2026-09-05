@@ -10,6 +10,10 @@ nav_order: 2
 
 <h3>peer-reviewed articles</h3>
 
+- Melnick, Justin. 2026. Green Party Vote Shares and Public Support for Climate Policy. Accepted, _Environmental Politics_.
+
+   [[pre-print]](https://justinmelnick.github.io/papers/greens/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/greens/appendix.pdf) 
+
 - Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. 2026. Political Life Cycles. _Journal of Politics_ 88(1): 363-376.
 
    [[journal]](https://www.journals.uchicago.edu/doi/10.1086/734281)   [[pre-print]](https://justinmelnick.github.io/papers/plc/paper.pdf) [[appendix]](https://justinmelnick.github.io/papers/plc/appendix.pdf)  [[replication]](https://doi.org/10.7910/DVN/HVHKDQ)
@@ -40,10 +44,6 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 - Melnick, Justin. 2026. Signals from Abroad: Climate Policy Appropriateness and Informational Spillovers.
 
    [[manuscript]](https://justinmelnick.github.io/papers/inaction/paper.pdf)  [[appendix]](https://justinmelnick.github.io/papers/inaction/appendix.pdf)
-
-- Melnick, Justin. 2026. Green Party Vote Shares and Public Support for Climate Policy. (revise and resubmit, _Environmental Politics_) 
-
-   [[manuscript]](https://justinmelnick.github.io/papers/greens/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/greens/appendix.pdf) 
 
 - Melnick, Justin. 2026. Strategic Obfuscation in International Benchmarking. (revise and resubmit, _International Studies Quarterly_) 
 
