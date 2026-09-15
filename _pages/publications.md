@@ -10,9 +10,9 @@ nav_order: 2
 
 <h3>peer-reviewed articles</h3>
 
-- Melnick, Justin. 2026. Green Party Vote Shares and Public Support for Climate Policy. Accepted, _Environmental Politics_.
+- Melnick, Justin. 2026. Green Party Vote Shares and Public Support for Climate Policy. Forthcoming, _Environmental Politics_.
 
-   [[pre-print]](https://justinmelnick.github.io/papers/greens/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/greens/appendix.pdf) 
+   [[journal]](https://doi.org/10.1080/09644016.2026.2732571)   [[pre-print]](https://justinmelnick.github.io/papers/greens/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/greens/appendix.pdf) 
 
 - Melnick, Justin, Alastair Smith, and Bruce Bueno de Mesquita. 2026. Political Life Cycles. _Journal of Politics_ 88(1): 363-376.
 
