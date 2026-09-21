@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: princeton_vertical.jpeg
+  image: princeton_horizontal.jpeg
   image_circular: true # crops the image to make it circular
   address: >
     <p></p>
