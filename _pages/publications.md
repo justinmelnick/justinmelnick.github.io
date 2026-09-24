@@ -49,7 +49,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/pledge/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/pledge/appendix.pdf) 
 
-- Kennard, Amanda and Justin Melnick. 2026. Expansion and Diversion in Global Green Markets: Evidence from the 2024 U.S. Election.
+- Kennard, Amanda and Justin Melnick. 2026. Expansion and Diversion in Global Green Markets: Evidence from the 2024 U.S. Election. (revise and resubmit, _Economics & Politics_) 
 
    [[manuscript]](https://justinmelnick.github.io/papers/scam/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/scam/appendix.pdf) 
 
@@ -57,9 +57,9 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/electricity/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/electricity/appendix.pdf) 
 
-- Torreblanca, Carolina and Justin Melnick. 2026. Democratic Participation without Democrats: Evidence from 109 Countries.
+<!-- - Torreblanca, Carolina and Justin Melnick. 2026. Democratic Participation without Democrats: Evidence from 109 Countries.
 
-   [[manuscript]](https://justinmelnick.github.io/papers/almond/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/almond/appendix.pdf) 
+   [[manuscript]](https://justinmelnick.github.io/papers/almond/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/almond/appendix.pdf) -->
 
 
 <h3>other writing</h3>
