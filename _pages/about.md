@@ -18,6 +18,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6V6HL1VTR3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6V6HL1VTR3');
+</script>
+
 Hi. I am a Postdoctoral Research Associate at the [Niehaus Center for Globalization and Governance](https://niehaus.princeton.edu/) at Princeton University. In Fall 2027, I will join the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin as an Assistant Professor.
 
 My research uses formal theory and quantitative methods to explore topics in international relations and political economy with applications to the politics of climate change. 

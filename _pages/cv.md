@@ -16,6 +16,15 @@ cv_pdf: cv/cv_melnick.pdf
         }
     </style>
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6V6HL1VTR3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6V6HL1VTR3');
+</script>
 
 [[download cv]](https://justinmelnick.github.io/cv/cv_melnick.pdf)
 

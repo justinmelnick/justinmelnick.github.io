@@ -8,6 +8,16 @@ nav: true
 nav_order: 2
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6V6HL1VTR3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6V6HL1VTR3');
+</script>
+
 <h3>peer-reviewed articles</h3>
 
 - Melnick, Justin. 2026. Green Party Vote Shares and Public Support for Climate Policy. Forthcoming, _Environmental Politics_.
