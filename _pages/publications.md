@@ -59,7 +59,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/pledge/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/pledge/appendix.pdf) 
 
-- Kennard, Amanda and Justin Melnick. 2026. Expansion and Diversion in Global Green Markets: Evidence from the 2024 U.S. Election. (revise and resubmit, _Economics & Politics_) 
+- Kennard, Amanda and Justin Melnick. 2026. Expansion and Diversion in Global Green Markets: Evidence from Green Industrial Policy Announcements. (revise and resubmit, _Economics & Politics_) 
 
    [[manuscript]](https://justinmelnick.github.io/papers/scam/paper.pdf)   [[appendix]](https://justinmelnick.github.io/papers/scam/appendix.pdf) 
 
