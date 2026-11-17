@@ -51,7 +51,7 @@ System: Evidence from Free Allowance Allocation. _Journal of Political Instituti
 
    [[manuscript]](https://justinmelnick.github.io/papers/complementarities/paper.pdf)  [[appendix]](https://justinmelnick.github.io/papers/complementarities/appendix.pdf)
 
-- Melnick, Justin. 2026. Signals from Abroad: Climate Policy Appropriateness and Informational Spillovers.
+- Melnick, Justin. 2026. Signals from Abroad: International Climate Coordination and Informational Spillovers.
 
    [[manuscript]](https://justinmelnick.github.io/papers/inaction/paper.pdf)  [[appendix]](https://justinmelnick.github.io/papers/inaction/appendix.pdf)
 
